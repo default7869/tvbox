@@ -1,5 +1,517 @@
-//      >>> 当前时间是：2026-02-13 14:05:08 <<<
-//     关注微信公众号【太太太硬了】有惊喜哦！！！
-
-//     当前接口：https://raw.kkgithub.com/loopool/fan/main/a.json
-<!DOCTYPE html><html lang="en"> <head>  <meta name="360-analysis-id" content="1k1c1k1e39331c2v" />  <meta charset="utf-8" />  <!--!‫‭‬‫‬‪‫‭‬‫‬‬‭‫‭‭‪‭‫‬‪‬‏‫-->   <meta http-equiv="X-UA-Compatible" content="IE=Edge" />   <meta name="viewport" id="viewport" content="width=device-width, initial-scale=1,user-scalable=no" />   <link rel="shortcut icon" type="image/x-icon" href="https://gimg0.baidu.com/gimg/app=2001&n=0&g=0n&fmt=jpeg&src=s1.imagehub.cc/images/2025/03/03/636f2a6da36a1f0d8f7731ed5d5faf04.th.jpg" />   <title>饭太硬 | 导航</title>   <meta name="description" content="饭太硬的自留地" />   <meta name="keywords" content="饭太硬" />   <link rel="stylesheet" type="text/css" href="z/css/h.9c69ed6c.css" />   <link rel="stylesheet" type="text/css" href="z/css/nekotora.99cf6f8c.css" />   <script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-137340638-1"></script>  <!--!‫‭‬‫‬‪‫‭‬‫‬‬‭‫‭‭‪‭‫‬‪‬‏‫-->   <script>function a() { dataLayer.push(arguments) } window.dataLayer = window.dataLayer || [], a("js", new Date), a("config", "UA-137340638-1");</script>    <meta charset="utf-8&quot;/" />   <style>          mark {              background-color:#CCCCCC; font-weight:bold;          }      </style>   <style>    .toast-bottom-center {        position: absolute;        left: 30px;        right: 10px;        top: 20px;    }</style>  <!--!‫‭‬‫‬‪‫‭‬‫‬‬‭‫‭‭‪‭‫‬‪‬‏‫-->  <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-3NF90DWZG8"></script>  <script>  window.dataLayer = window.dataLayer || [];  function gtag(){dataLayer.push(arguments);}  gtag('js', new Date());  gtag('config', 'G-3NF90DWZG8');</script> </head>  <!-- Google tag (gtag.js) -->    <body>  <div class="background">    <canvas id="startrack"></canvas>    <div class="cover"></div>   </div>   <div class="main">    <div class="ch intro">     <div class="container">      <div class="hello">       <h1 id="slogan">Hi~</h1>       <!--随机文字信息在\js\page.3a0791a3.js中修改-->       <h2>        <div class="circle">         <span></span>         <span></span>         <span></span>        </div> 饭 </h2>      </div>     </div>    </div>    <div class="find ch">     <div class="container links">      <h2 class="chtitle">空壳 <span>接口（点击复制）</span></h2>      <div class="clear col-3">       <div class="item">        <div class="bg" style="background-color:#28a9e0"></div>        <div class="inner copy-btn" id="yunxing" data-clipboard-text="http://www.饭太硬.com/tv">         <span>饭太硬</span>        </div>       </div>       <div class="item">        <div class="bg" style="background-color:#db1f76"></div>        <div class="inner copy-btn" id="yunxing" data-clipboard-text="http://www.饭太硬.net/tv">         <span>饭太硬备用</span>        </div>       </div>       <div class="item">        <div class="bg" style="background-color:#FFA500"></div>        <div class="inner copy-btn" id="yunxing" data-clipboard-text="https://gitee.com/xxoooo/fan/raw/master/in.bmp">         <span>饭太硬备用</span>        </div>       </div>       <div class="item">        <div class="bg" style="background-color:#F7DC6F"></div>        <div class="inner copy-btn" id="yunxing" data-clipboard-text="http://mitvbox.xyz/%E5%B0%8F%E7%B1%B3/DEMO.json">         <span>小米</span>        </div>       </div>       <div class="item">        <div class="bg" style="background-color:#c4e00f"></div>        <div class="inner copy-btn" id="junyu" data-clipboard-text="http://tvbox.xn--4kq62z5rby2qupq9ub.top/">         <span>王二小</span>        </div>       </div>       <div class="item">        <div class="bg" style="background-color:#1ba050"></div>        <div class="inner copy-btn" id="tangsan" data-clipboard-text="http://ok213.top/tv">         <span>jack老师 </span>        </div>       </div>       <div class="item">        <div class="bg" style="background-color:#1f3cfb"></div>        <div class="inner copy-btn" id="qiaoer" data-clipboard-text="http://cdn.qiaoji8.com/tvbox.json">         <span>巧技</span>        </div>       </div>       <div class="item">        <div class="bg" style="background-color:#7F8C8D"></div>        <div class="inner copy-btn" id="xiaoya" data-clipboard-text="https://gh-proxy.net/https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/XC.json">         <span>南风</span>        </div>       </div>      </div>     </div>    </div>    <div class="gate ch">     <div class="container links">      <h2 class="chtitle">开源空壳 <span>相关免费资源推荐</span></h2>      <div class="clear col-3">       <a href="https://mp.weixin.qq.com/s/rA3qc33fulDzZ2M4xBcxtw" target="_blank">        <div class="item">         <div class="avatar">          <img src="https://gimg0.baidu.com/gimg/app=2001&n=0&g=0n&fmt=jpeg&src=s1.imagehub.cc/images/2024/11/06/14281e4fd77c9a4844353b6b57b7ea10.png" />         </div>         <div class="inner">          <h5>饭太硬公众号</h5>          <p>微信公众号搜索【太太太硬了】</p>         </div>        </div> </a>       <a href="https://mp.weixin.qq.com/s/rA3qc33fulDzZ2M4xBcxtw" target="_blank">        <div class="item">         <div class="avatar">          <img src="http://wx.qlogo.cn/mmhead/Q3auHgzwzM7w6icJAxkRoPrZ2gIyUzXO6ZduLmEEYYB7flYen0KLF1A/0" />         </div>         <div class="inner">          <h5>叨观荐影</h5>          <p>哥哥们的防失联小号，日常推介玩偶哥哥新片，关注下呗</p>         </div>        </div> </a>      <a href="https://www.wogg.net/" target="_blank">        <div class="item">         <div class="avatar">          <img src="https://gimg0.baidu.com/gimg/app=2001&n=0&g=0n&fmt=jpeg&src=s1.imagehub.cc/images/2023/07/01/WoGG.png" />         </div>         <div class="inner">          <h5>玩偶哥哥</h5>          <p>网盘资源分享站，资源已对接，快来分享吧</p>         </div>        </div> </a>        <a href="https://t.me/TVBoxxoo/27464" target="_blank">        <div class="item">         <div class="avatar">          <img src="https://gimg0.baidu.com/gimg/app=2001&n=0&g=0n&fmt=jpeg&src=s1.imagehub.cc/images/2023/07/01/Telegram_2019_Logo.svg.md.png" />         </div>         <div class="inner">          <h5>Box醒人室</h5>          <p>饭太硬分享交流群！大伙们分享交流！来交个朋友吧~</p>         </div>        </div> </a>         <a href="https://pan.quark.cn/s/9849105c4a92" target="_blank">        <div class="item">         <div class="avatar">          <img src="https://gimg0.baidu.com/gimg/app=2001&n=0&g=0n&fmt=jpeg&src=s1.imagehub.cc/images/2025/09/11/f5cbab89862572f3efa6048010d108c6.md.webp" />         </div>         <div class="inner">          <h5>iBox 下载</h5>          <p>苹果版看剧听歌神器，支持iPhone\iPad\Mac</p>         </div>        </div> </a>       <a href="https://pan.quark.cn/s/de6d689e3c16" target="_blank">        <div class="item">         <div class="avatar">          <img src="https://gimg0.baidu.com/gimg/app=2001&n=0&g=0n&fmt=jpeg&src=s1.imagehub.cc/images/2023/07/01/ystv.md.png" />         </div>          <div class="inner">         <h5>OK影视 下载</h5>          <p>片头片尾快捷标记，最新EXO支持软硬解，无缝换线路换源</p>         </div>        </div> </a>       <a href="https://pan.quark.cn/s/0c47dfe3a371" target="_blank">        <div class="item">         <div class="avatar">          <img src="https://gimg0.baidu.com/gimg/app=2001&n=0&g=0n&fmt=jpeg&src=s1.imagehub.cc/images/2023/07/01/ysc.png" />         </div>         <div class="inner">          <h5>影视仓 下载</h5>          <p>Tvbox源码二开，支持多仓订阅，投屏，升级阿里播放器</p>         </div>        </div> </a>       <a href="https://github.com/FongMi/TV" target="_blank">        <div class="item">         <div class="avatar">          <img src="https://gimg0.baidu.com/gimg/app=2001&n=0&g=0n&fmt=jpeg&src=s1.imagehub.cc/images/2023/07/01/ystv.md.png" />         </div>         <div class="inner">          <h5>影视TV 开源仓库</h5>          <p>台湾活雷锋FongMI开发，免费简洁强大的自动更新播放器</p>         </div>        </div> </a>       <a href="https://shop.tjkapp.com/" target="_blank">        <div class="item">         <div class="avatar">          <img src="https://gimg0.baidu.com/gimg/app=2001&n=0&g=0n&fmt=jpeg&src=s1.imagehub.cc/images/2024/07/24/2a063cc4a81b5a8bea5ab8dc3f3cc919.jpeg" />         </div>         <div class="inner">          <h5>神秘的鱼哥小店</h5>          <p>苹果P12证书，带推送健康等所有权限，一年内掉了无限补</p>         </div>        </div> </a>         <a href="https://xiaomark.com/" target="_blank">        <div class="item">         <div class="avatar">          <img src="https://gimg0.baidu.com/gimg/app=2001&n=0&g=0n&fmt=jpeg&src=s1.imagehub.cc/images/2023/07/01/td.png" />         </div>         <div class="inner">          <h5>太短</h5>          <p>缩短链接，屌！也不是很短~</p>         </div>        </div> </a>       <a href="https://gh.xxooo.cf/" target="_blank">        <div class="item">         <div class="avatar">          <img src="https://gimg0.baidu.com/gimg/app=2001&n=0&g=0n&fmt=jpeg&src=s1.imagehub.cc/images/2023/07/01/tk.png" />         </div>         <div class="inner">          <h5>太快</h5>          <p>GitHub 文件加速</p>         </div>        </div> </a>       <a href="http://z.qiqiv.cn/" target="_blank">        <div class="item">         <div class="avatar">          <img src="https://gimg0.baidu.com/gimg/app=2001&n=0&g=0n&fmt=jpeg&src=s1.imagehub.cc/images/2023/07/01/tnb.png" />         </div>         <div class="inner">          <h5>太能编</h5>          <p>接口配置编辑器，支持加解密</p>         </div>        </div> </a>       <a href="http://a.qiqiv.cn/tvbox.php" target="_blank">        <div class="item">         <div class="avatar">          <img src="https://gimg0.baidu.com/gimg/app=2001&n=0&g=0n&fmt=jpeg&src=s1.imagehub.cc/images/2023/07/31/photo_2023-07-31_20-21-18.md.jpeg" />         </div>         <div class="inner">          <h5>TVBox软件下载</h5>          <p>奇奇持续更新分享各种BOX改版</p>         </div>        </div> </a>       <a href="./jm/" target="_blank">        <div class="item">         <div class="avatar">          <img src="https://gimg0.baidu.com/gimg/app=2001&n=0&g=0n&fmt=jpeg&src=s1.imagehub.cc/images/2023/07/01/jm.jpeg" />         </div>         <div class="inner">          <h5>加密接口解密</h5>          <p>通通能解，可用于解密各种网络加密接口</p>         </div>        </div> </a>       <a href="https://tv.cctv.com/live/" target="_blank">        <div class="item">         <div class="avatar">          <img src="https://gimg0.baidu.com/gimg/app=2001&n=0&g=0n&fmt=jpeg&src=s1.imagehub.cc/images/2024/11/06/a1631bcdf8e7e79cf31e19d44c1e3025.jpg" />         </div>         <div class="inner">          <h5>直播大全</h5>          <p>CCTV直播大全</p>         </div>        </div> </a>       <a href="https://www.qiushui.vip/" target="_blank">        <div class="item">         <div class="avatar">          <img src="https://gimg0.baidu.com/gimg/app=2001&n=0&g=0n&fmt=jpeg&src=s1.imagehub.cc/images/2025/03/01/f34a58938b3e2b08652fafcda58d77b2.th.jpg" />         </div>         <div class="inner">          <h5>秋水网</h5>          <p>简单易用的导航网站</p>         </div>        </div> </a>       <a href="https://my.ksust.com/kstore.htm?aff=7212" target="_blank">        <div class="item">         <div class="avatar">          <img src="https://my.ksust.com/upload/avatar/000/1.png?1577675522" />         </div>         <div class="inner">          <h5>凯速直链文件存储</h5>          <p>稳定速度快，个人私用接口托管足够了~</p>         </div>        </div> </a>       <a href="https://adzhp.xyz/" target="_blank">        <div class="item">         <div class="avatar">          <img src="https://adzhp.xyz/wp-content/uploads/2019/02/A.png" />         </div>         <div class="inner">          <h5>爱达杂货铺</h5>          <p>收集那些有用的东西</p>         </div>        </div> </a>       <a href="http://www.foodieguide.com/iptvsearch/?s=" target="_blank">        <div class="item">         <div class="avatar">          <img src="https://gimg0.baidu.com/gimg/app=2001&n=0&g=0n&fmt=jpeg&src=s1.imagehub.cc/images/2023/07/01/iptv.png" />         </div>         <div class="inner">          <h5>直播源搜索引擎</h5>          <p>国内外电视直播源搜索，m3u8、flv、rtsp……</p>         </div>        </div> </a>       <a href="https://sankei.mo/z.html" target="_blank">        <div class="item">         <div class="avatar">          <img src="https://gimg0.baidu.com/gimg/app=2001&n=0&g=0n&fmt=jpeg&src=s1.imagehub.cc/images/2023/07/01/zbzh.webp" />         </div>         <div class="inner">          <h5>直播源格式转换</h5>          <p>直播源格式在线转换工具</p>         </div>        </div> </a>       <a href="https://my.henghost.com/aff.php?aff=8889" target="_blank">        <div class="item">         <div class="avatar">          <img src="https://gimg0.baidu.com/gimg/app=2001&n=0&g=0n&fmt=jpeg&src=s1.imagehub.cc/images/2023/07/01/hckj.jpeg" />         </div>         <div class="inner">          <h5>恒创科技</h5>          <p>高速免备案,香港日本特价机器一年200多,本站托管服务商</p>         </div>        </div> </a>      </div>      <div class="push"></div>     <!--push在此为footer占位，高度和footer的一样-->     </div>    <script src="z/js/page.3a0791a3.js"></script>    <!--以下为点击复制调用js-->    <script src="https://s4.zstatic.net/ajax/libs/jquery/2.2.0/jquery.min.js"></script>    <script src="https://s4.zstatic.net/ajax/libs/clipboard.js/2.0.11/clipboard.min.js"></script>    <script>        $('.copy-btn').click(function () {            let id = $(this).attr('id')            copy('#' + id)        })        function copy(id) {            let clipboard = new ClipboardJS(id);            clipboard.on('success', function (e) {                console.log(e);                alert('复制成功，请前往壳设置里粘贴接口')                clipboard.destroy();//解决多次弹窗问题            });            clipboard.on('error', function (e) {                console.log(e);                alert('请重新复制')                clipboard.destroy();//解决多次弹窗问题            });        }    </script>   </div>      <div class="footer ch">      <div class="container">       <h4>&copy; 2026 Powered by 饭</h4>       <a target="_blank" href="http://my.henghost.com/aff.php?aff=8889" title="本网站托管于 恒创科技 " alt="本网站托管于 恒创科技">本网站托管于 <mark>恒创科技</mark></a>      </div>    </div>  </body></html>
+{
+  "sites": [
+    {
+      "key": "豆",
+      "name": "Fix All, 新公众号【太太太硬了】",
+      "type": 3,
+      "api": "csp_DouDouGuard",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0
+    },
+    {
+      "key": "MDrive",
+      "name": "🗂我的云盘┃我配置",
+      "type": 3,
+      "api": "csp_MyDriveGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "[object Object]"
+    },
+    {
+      "key": "玩偶",
+      "name": "👽玩偶哥哥┃4K弹幕",
+      "type": 3,
+      "api": "csp_WoGGGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "[object Object]"
+    },
+    {
+      "key": "YGP",
+      "name": "🚀叨观荐影┃预告片",
+      "type": 3,
+      "api": "csp_YGPGuard",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0
+    },
+    {
+      "key": "MTV1",
+      "name": "🎙️易听音乐┃带歌词",
+      "type": 3,
+      "api": "csp_MusicGuard",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0
+    },
+    {
+      "key": "alllive",
+      "name": "一直播┃直播",
+      "type": 3,
+      "api": "csp_AllliveGuard",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "uqGL1fpJNAUH7axYx5bf4OWuvyk="
+    },
+    {
+      "key": "seed",
+      "name": "💡聚剧剧┃三盘",
+      "type": 3,
+      "api": "csp_SeedhubGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "5++kwLhNYm9UrO9wh7Dl7eKamTee4s/5"
+    },
+    {
+      "key": "ZPan",
+      "name": "🎈聚盘搜┃三盘",
+      "type": 3,
+      "api": "csp_S_zpsGuard",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "[object Object]"
+    },
+    {
+      "key": "云播",
+      "name": "⛅️云播┃无搜索",
+      "type": 3,
+      "api": "csp_T4Guard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "rfOIzPkSUkANv6AT2prC8en3+Trbx4j10CIoZMv3Ag4bdEYQqTMqu/Z3YPtC2NJv6n6YeZdgyWlo4WJjBL5gUt6B7LvCEDT4CKrShL75AiGhjhdkfX0cfnI/kIpThjDhEZ0lc8r7irE4mRMelQz4llfmVMCtjIFNIHP1T3XqwSmYZd34DfAtnkbgrpiMBiYW36CCI5rTkC3Rtg1wQQjazUZyVHx4Zz5bWbmPv4G8q7PfHWYStVeDannVT2lmLzKbGEDahyxvLhNZRjXO5rPlruB0ydDcR/e/g5nx8N3JhG0oucfv6xVDl0XxYy0K2bY3plgqx32kfnS63xa8sQDbGlYoPtdHQCi2cAvEOaqMb5a6r2D3yvcLXYLjk37CJgQObzK0bCggZPm3B3YenAuunxl5OQmXrzLHjys6I2isL5AwTS2YAjD/R3f4FYWBp+4RdwMBAChatxjEHcaFhCUb0nfTgYKQ4a1pZ4j6+d4YHa0GaMYHO5NZQ0tDRZfAZPcfYaWLSW8iIUx6G2e0JnI6bLAN1TR0AVer8lxfU0zAzAODbKVrt8Oafq0IQ6MeGFcFRGMu4QWrzaublQ=="
+    },
+    {
+      "key": "立播",
+      "name": "🌟立播┃秒播",
+      "type": 3,
+      "api": "csp_LibvioGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "[object Object]"
+    },
+    {
+      "key": "奶酪",
+      "name": "🧀奶酪┃秒播",
+      "type": 3,
+      "api": "csp_T4Guard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "rfOIzPkSUkANv6AT2prC8en3+TzKx9TnlT8vaY37HhtYfAQe6C5xqrVuJPhQwYV6r3eRdMBGm3Qm6Th+BushR86B6KqJGXDsHazHw7alBG/7zUxkN1tK/NypRxnpBNoeUtpw4jcCGhytI75yO4g4zG6SOPA0RSwhksM0IF2friAkrHCWoW3v+0mdw6sjz4t4XB1Df7yL/R5cfaA/5LQYq3I8OkvMrJMU9Q1P7JXwx7NSF2zTyH/ANVmZ4u5m567DW1KVG7OuQjXPjZiOXTYk0+wjpfBRTf19yIq6q/C76k2Fs80joAMPw0ueDR+QHxtuDcTom2rmHkI1Fonkzi6BotbpUcbSi4PiIgmfdbvVwhG6Z+i4nvt+IYa48l5aLA7PLgDiERpuOs31aHaXlgFswT87XyTb8QaF4CuzKWJuXptwNTjvXAS9KHdxH49Ay+hfBAB2bCvUf4CMoldF2wZUv0mI2qY966erFpOFg+FOc7t88EUH8j8ACXQtHJiKC9RQ+SaLIF0="
+    },
+    {
+      "key": "厂长",
+      "name": "📔厂长┃秒播",
+      "type": 3,
+      "api": "csp_NewCzGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "文采",
+      "name": "💮文采┃秒播",
+      "type": 3,
+      "api": "csp_JpysGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "原创",
+      "name": "☀原创┃秒播",
+      "type": 3,
+      "api": "csp_YCyzGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "比特",
+      "name": "🍄比特┃秒播",
+      "type": 3,
+      "api": "csp_BttwooGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "苹果",
+      "name": "🍎苹果┃秒播",
+      "type": 3,
+      "api": "csp_LiteAppleGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "热播",
+      "name": "📺热播┃多线",
+      "type": 3,
+      "api": "csp_AppTTGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "uqGL1bNENExT7/hGxpSE5qU="
+    },
+    {
+      "key": "糯米",
+      "name": "🍓糯米┃多线",
+      "type": 3,
+      "api": "csp_NmyswvGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "剧圈",
+      "name": "🐻剧圈┃多线",
+      "type": 3,
+      "api": "csp_AppSxGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "rfOb1uAWbkRHp7hdxprG9un3+S3T18333j8hL4ryEFdPZxse8yYwoKFyJOlU2M9/q2OcL8NQxT0k5GV9Quw0AIzUurGBVyPqCLrdirfpAz+n0Qh7PVBWo8uxWhO1Bs1MCYA1oiM="
+    },
+    {
+      "key": "光影",
+      "name": "🌞光影┃多线",
+      "type": 3,
+      "api": "csp_AppSxGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "rfOb1uAWbkRHp7hdxprG9un3+TrS2dv+1y8lL4ryEFdPZxse8yYwoKFyJOlU2M9/q2OcL8NQxT0k4zImBOA4Uobe87udCDvyWafXmuGpRG3z0Vg1KUZQ7ty7UE+qFZ1UBoc16Q=="
+    },
+    {
+      "key": "米团",
+      "name": "🍙米团┃多线",
+      "type": 3,
+      "api": "csp_AppYsV2Guard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "rfOK0+FRORAJ7epFjN2F+Lm9o2nF28P91TA4dIy3AAlFKw5JqColrKxydelI2IR6sXTYZ5UR0n0xqycyEeglO8+BuuDECGmuSr7GhKG/QGX42VBkbwIc7pP8BBPxQ51QZuBRwSk3Wmr8OK703W6ZI7Uui11v"
+    },
+    {
+      "key": "播客",
+      "name": "🦊播客┃多线",
+      "type": 3,
+      "api": "csp_AppSxGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "rfOX1voDIQhH8epBwtCFsub18Wmenoi4l29kKsy7UkwYMxpf9CY77fshcekBhdA642OKKsMYzDZl6C04VuIpAozGrejSUw=="
+    },
+    {
+      "key": "猫猫",
+      "name": "🐟猫猫┃多线",
+      "type": 3,
+      "api": "csp_AppSxGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "rfOX1voDIQhH8epBwpmIsuStr2HSytK11WwwcM/+XB8SbkBB4XYk/L52LroCiYRhoDrRLJ4ZkCh5q2RxCb5yUs6B5aCQVGSkR6zDgKLrFSDulg=="
+    },
+    {
+      "key": "包子",
+      "name": "🍩包子┃多线",
+      "type": 3,
+      "api": "csp_AppSxGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "rfOb1uAWbkRHp7hdxprG9un3+S/Cz8j6xik9ZozpEkhbYkFU/DFvvK1mZONQ0N84uGiCZNFRz3ln6nh5Q+YkAdSQ6aaNTzegVrmV3P39FC7u1UYse1VMo56uQUy/V4IOUYZzsnJBF1/lWqakhRaj"
+    },
+    {
+      "key": "爱影",
+      "name": "👀爱影┃多线",
+      "type": 3,
+      "api": "csp_AppSxGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "rfOb1uAWbkRHp7hdxprG9un3+T/Ky8ijlm1jJ8+yU0seIgQe6DRwqrUqYeBZw91iuG3ZcN1Sz2Im+G8mF+shR+eNzbfXXm6lQP/dh6jgV3vuhAU7ZRwc9pSgTUu4VYIbAYdt+2ddGRy/WuLwxQbgQsRBzg=="
+    },
+    {
+      "key": "奥特",
+      "name": "🏝奥特┃多线",
+      "type": 3,
+      "api": "csp_AueteGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "荐片",
+      "name": "🐭荐片┃P2P",
+      "type": 3,
+      "api": "csp_JPJGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "新6V",
+      "name": "🧲新6V┃磁力",
+      "type": 3,
+      "api": "csp_SixVGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://www.xb6v.com/"
+    },
+    {
+      "key": "咕咕",
+      "name": "🦉咕咕┃动漫",
+      "type": 3,
+      "api": "csp_AppSxGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "rfOX1voDIQhH8epBwpmIsuS/sSCZxc/l0mxkeoroQVYOelMAvX1kuYptSLB36YxEjVawS9p37Cgo"
+    },
+    {
+      "key": "Dm84",
+      "name": "🚌巴士┃动漫",
+      "type": 3,
+      "api": "csp_Dm84Guard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "Anime1",
+      "name": "🐾日本┃动漫",
+      "type": 3,
+      "api": "csp_Anime1Guard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "88",
+      "name": "⚽88┃看球",
+      "type": 3,
+      "api": "csp_Sir88Guard",
+      "searchable": 0,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "超全",
+      "name": "⚽超全┃看球",
+      "type": 3,
+      "api": "csp_ZbzGuard",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "uqGL1fpJNAUf8fdTwZCE5qSp+Q=="
+    },
+    {
+      "key": "看球",
+      "name": "⚽手机┃看球",
+      "type": 3,
+      "api": "csp_KanqiuGuard",
+      "searchable": 0,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "MTV",
+      "name": "🎶明星┃MV",
+      "type": 3,
+      "api": "csp_BiliGuard",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "[object Object]"
+    },
+    {
+      "key": "有声小说",
+      "name": "🎧有声┃小说",
+      "type": 3,
+      "api": "csp_Tingshu275Guard",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0
+    },
+    {
+      "key": "Aid",
+      "name": "🚑急救┃教学",
+      "type": 3,
+      "api": "csp_FirstAidGuard",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0
+    },
+    {
+      "key": "虎牙js",
+      "name": "🐯虎牙┃直播",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/虎牙.js"
+    },
+    {
+      "key": "斗鱼js",
+      "name": "🐟斗鱼┃直播",
+      "type": 3,
+      "api": "https://git.yylx.win/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "https://git.yylx.win/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/斗鱼直播.js"
+    },
+    {
+      "key": "抠搜",
+      "name": "🍄抠抠┃搜搜",
+      "type": 3,
+      "api": "csp_KkSsGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "[object Object]"
+    },
+    {
+      "key": "UC",
+      "name": "🌈优汐┃搜搜",
+      "type": 3,
+      "api": "csp_UuSsGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "[object Object]"
+    },
+    {
+      "key": "YiSo",
+      "name": "😹易搜┃三盘",
+      "type": 3,
+      "api": "csp_YiSoGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "[object Object]"
+    },
+    {
+      "key": "米搜",
+      "name": "🦋米搜┃优夸",
+      "type": 3,
+      "api": "csp_MIPanSoGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "[object Object]"
+    },
+    {
+      "key": "xzso",
+      "name": "👻盘他┃夸父",
+      "type": 3,
+      "api": "csp_XzsoGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "[object Object]"
+    },
+    {
+      "key": "YpanSo",
+      "name": "🐟盘她┃夸父",
+      "type": 3,
+      "api": "csp_YpanSoGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "[object Object]"
+    },
+    {
+      "key": "push_agent",
+      "name": "🛴手机┃推送",
+      "type": 3,
+      "api": "csp_PushGuard",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "[object Object]"
+    },
+    {
+      "key": "dr_兔小贝",
+      "name": "📚儿童┃启蒙",
+      "type": 3,
+      "api": "https://git.yylx.win/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "https://git.yylx.win/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/%E5%85%94%E5%B0%8F%E8%B4%9D.js"
+    },
+    {
+      "key": "少儿教育",
+      "name": "📚少儿┃教育",
+      "type": 3,
+      "api": "csp_BiliGuard",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "[object Object]"
+    },
+    {
+      "key": "小学课堂",
+      "name": "📚小学┃课堂",
+      "type": 3,
+      "api": "csp_BiliGuard",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "[object Object]"
+    },
+    {
+      "key": "初中课堂",
+      "name": "📚初中┃课堂",
+      "type": 3,
+      "api": "csp_BiliGuard",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "[object Object]"
+    },
+    {
+      "key": "高中教育",
+      "name": "📚高中┃课堂",
+      "type": 3,
+      "api": "csp_BiliGuard",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "[object Object]"
+    },
+    {
+      "key": "fan",
+      "name": "导航 www.饭太硬.com",
+      "type": 3,
+      "api": "csp_XPathGuard",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0
+    },
+    {
+      "key": "cc",
+      "name": "请勿相信视频中广告",
+      "type": 3,
+      "api": "csp_XPathGuard",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0
+    }
+  ],
+  "wallpaper": "https://深色壁纸.xxooo.cf/",
+  "spider": "./JAR/fan.txt;md5;78a03fbb16cc42b7c79d9c1d1464be00"
+}
